@@ -9,6 +9,6 @@
       ◽ Each profile saves their own session even extensions in them. <br>
       ◽ Folders system integrated, to save profiles more structured. <br>
       ◽ Posibility to create sessions with Telegram accounts logged in. <br>
-      ◽ Integrated <a href="https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">Violentmonkey</a> auto scripts adding. <br>
+      ◽ Integrated <a href="https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">Violentmonkey</a> scripts auto adding. <br>
     </p>
 </div>
