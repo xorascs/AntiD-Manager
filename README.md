@@ -1,6 +1,6 @@
 # <p align="center">🚫 AntiD Manager 🚫</p>  
 <div>  
-    <img src="https://github.com/user-attachments/assets/3e16a902-360e-41e4-96c6-4316d3f32218" width="400" align="left">  
+    <img src="https://github.com/user-attachments/assets/3e16a902-360e-41e4-96c6-4316d3f32218" width="450" align="left">  
     <p>  
         <strong>➡ AntiD Manager</strong> - an advanced antidetect browser manager designed for <strong>automation, anonymity, and multi-accounting</strong>.  
         It includes features like <a href="https://magiceden.io/polygon">magiceden.io</a> Auto-Mint, built-in Browser Scripts Builder  
