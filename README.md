@@ -2,7 +2,7 @@
 <div>  
     <img src="https://github.com/user-attachments/assets/3e16a902-360e-41e4-96c6-4316d3f32218" width="400" align="left">  
     <p>  
-        <strong>➡ Antidetect Browser Manager</strong> - an advanced antidetect browser manager designed for <strong>automation, anonymity, and multi-accounting</strong>.  
+        <strong>➡ AntiD Manager</strong> - an advanced antidetect browser manager designed for <strong>automation, anonymity, and multi-accounting</strong>.  
         It includes features like <a href="https://magiceden.io/polygon">magiceden.io</a> Auto-Mint, built-in Browser Scripts Builder  
         (<a href="https://zennolab.com/ru/products/zennoposter/">ZennoPoster</a> light version) and Telegram auto log-in.  
         <h4 align="center"><strong>☘ Main Functionalities:</strong></h4>  
