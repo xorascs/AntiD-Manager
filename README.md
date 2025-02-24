@@ -1,14 +1,73 @@
-# <p align="center">🚫 AntiD Manager 🚫</p>
-<div>
-    <img src="https://github.com/user-attachments/assets/3e16a902-360e-41e4-96c6-4316d3f32218" width="300" align="left">
-    <p>
-      <strong>➡ Antidetect Browser Manager</strong> - new antidetect web browser manager with <a href="https://magiceden.io/polygon">magiceden.io</a> Auto-Mint, Browser scripts builder (<a href="https://zennolab.com/ru/products/zennoposter/">ZennoPoster</a> light version) and Telegram auto log-in. <br>
-      <h4><strong>☘ Main functionalities are:</strong></h4>
-      ◽ Browser fingerprint, proxy, user agent exchange. <br>
-      ◽ Posibility to create unlimited count of antidetect profiles. <br>
-      ◽ Each profile saves their own session even extensions in them. <br>
-      ◽ Folders system integrated, to save profiles more structured. <br>
-      ◽ Posibility to create sessions with Telegram accounts logged in. <br>
-      ◽ Integrated <a href="https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">Violentmonkey</a> scripts auto adding. <br>
-    </p>
-</div>
+# <p align="center">🚫 AntiD Manager 🚫</p>  
+<div>  
+    <img src="https://github.com/user-attachments/assets/3e16a902-360e-41e4-96c6-4316d3f32218" width="300" align="left">  
+    <p>  
+        <strong>➡ Antidetect Browser Manager</strong> - an advanced antidetect browser manager designed for <strong>automation, anonymity, and multi-accounting</strong>.  
+        It includes features like <a href="https://magiceden.io/polygon">magiceden.io</a> Auto-Mint, built-in Browser Scripts Builder  
+        (<a href="https://zennolab.com/ru/products/zennoposter/">ZennoPoster</a> light version), and Telegram auto log-in.  
+        <br>
+        <h4><strong>☘ Main Functionalities:</strong></h4>  
+        ◽ <strong>Antidetect Browsing</strong> – Unique browser fingerprints, user-agents, and proxy support.  
+        <br>  
+        ◽ <strong>Multi-Profile System</strong> – Create and manage unlimited browser profiles with independent sessions and extensions.  
+        <br>  
+        ◽ <strong>Automation & Scripting</strong> – Built-in ZennoPoster-like script builder and Violentmonkey script integration.  
+        <br>  
+        ◽ <strong>Auto-Minting</strong> – Automate MagicEden NFT minting across multiple MetaMask wallets.  
+        <br>  
+        ◽ <strong>Telegram Auto Login</strong> – Instant session creation for marketing and automation purposes.  
+        <br>  
+        <h4><strong>🛠 Profile & Session Management</strong></h4>  
+        - Create, edit, and delete antidetect browser profiles in a <strong>structured folder system</strong>.  
+        <br>  
+        - Modify existing profiles (change proxy, user-agent, profile name) without losing data.  
+        <br>  
+        - Upload and extract profiles to easily backup and restore sessions.  
+        <br>  
+        - Automatic user-agent picker based on device type (PC, Mobile, Tablet).  
+        <br>  
+        - Persistent session storage, including <strong>cookies, extensions, and browser history</strong>.  
+        <br>  
+        <h4><strong>⚡ Automation & Scripting</strong></h4>  
+        - Use the built-in <strong>ZennoPoster like script constructor</strong> to automate browser tasks.  
+        <br>  
+        - Integrate <strong>Violentmonkey scripts</strong> for custom browser automation.  
+        <br>  
+        - Automate <strong>login sequences, form submissions, or repetitive web actions</strong>.  
+        <br>  
+        - Use <strong>Auto-Mint for MagicEden</strong>, ensuring <strong>fast NFT transactions</strong> across wallets and platform.  
+        <br>  
+        <h4><strong>🔒 Advanced Browser Privacy & Security</strong></h4>  
+        - Fully customizable <strong>browser fingerprint settings</strong> to prevent tracking.  
+        <br>  
+        - <strong>Custom header removal</strong> – delete specific headers to enhance request bypassing.  
+        <br>  
+        - Configure <strong>browser startup behavior</strong> (restore last session tabs, predefined window size).  
+        <br>  
+        <h4><strong>📖 How to Get Started</strong></h4>  
+        <strong>Step 1: Auth in AntiD Manager</strong>  
+        <br>  
+        - Buy or Come up with your trial period token
+        <br>
+        - Open AntiD Manager and enter token for auth.  
+        <br>
+        <strong>Step 2: Create new profiles</strong>  
+        <br>  
+        - Select "Multiple Sessions" tab
+        <br>
+        - Select method to create profiles with Telegrams or just profiles count, names for profiles, user-agent type, proxies, extensions and scripts.
+        <br>
+        - Click start and wait for profiles creation.
+        <br>
+        <h4><strong>🎯 Who Should Use AntiD Manager?</strong></h4>  
+        ✅ <strong>NFT Minters & Traders</strong> – Automate NFT minting processes, ensuring fast and efficient mints on MagicEden.  
+        <br>  
+        ✅ <strong>Affiliate Marketers</strong> – Safely manage multiple marketing and affiliate accounts by simulating unique browsing sessions for each.  
+        <br>  
+        ✅ <strong>Automation Enthusiasts</strong> – Take full advantage of the powerful ZennoPoster-like script builder to automate complex browser tasks such as form submissions, product purchasing, or data scraping.  
+        Custom workflows and actions are seamlessly executed, saving you time and ensuring maximum efficiency.  
+        <br>  
+        ✅ <strong>Privacy-Conscious Users</strong> – Keep your online identity secure by configuring browser fingerprint settings to mask your real-world identity and location.  
+        With the ability to change your proxy, user-agent, and headers, you can safeguard your privacy and evade tracking or surveillance while browsing.  
+    </p>  
+</div>  
