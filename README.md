@@ -3,7 +3,7 @@
     <img src="https://github.com/user-attachments/assets/3e16a902-360e-41e4-96c6-4316d3f32218" width="350" align="left">  
     <p>  
         <strong>➡ Antidetect Browser Manager</strong> - an advanced antidetect browser manager designed for <strong>automation, anonymity, and multi-accounting</strong>.  
-        <h4 align="center"><strong>☘ Main Functionalities:</strong></h4>  
+        <p align="center"><strong>☘ Main Functionalities:</strong></p>  
         1. <strong>Antidetect Browsing</strong> – Unique browser fingerprints, user-agents and proxy support.  
         <br>  
         2. <strong>Multi-Profile System</strong> – Create and manage unlimited browser profiles with independent sessions and extensions.  
