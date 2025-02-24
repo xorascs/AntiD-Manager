@@ -18,6 +18,8 @@
         ◽ <strong>Telegram Auto Login</strong> – Instant session creation for marketing and automation purposes.  
         <br>  
     </p>  
+</div>
+<div>
     <h4><strong>🛠 Profile & Session Management</strong></h4>  
     - Create, edit, and delete antidetect browser profiles in a <strong>structured folder system</strong>.  
     <br>  
@@ -70,4 +72,4 @@
     <br>  
     ✅ <strong>Privacy-Conscious Users</strong> – Keep your online identity secure by configuring browser fingerprint settings to mask your real-world identity and location.  
     With the ability to change your proxy, user-agent, and headers, you can safeguard your privacy and evade tracking or surveillance while browsing.  
-</div>  
+</div>
