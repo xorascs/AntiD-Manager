@@ -1,20 +1,20 @@
 # <p align="center">🚫 AntiD Manager 🚫</p>  
 <div>  
-    <img src="https://github.com/user-attachments/assets/3e16a902-360e-41e4-96c6-4316d3f32218" width="500" align="left">  
+    <img src="https://github.com/user-attachments/assets/3e16a902-360e-41e4-96c6-4316d3f32218" width="400" align="left">  
     <p>  
         <strong>➡ Antidetect Browser Manager</strong> - an advanced antidetect browser manager designed for <strong>automation, anonymity, and multi-accounting</strong>.  
         It includes features like <a href="https://magiceden.io/polygon">magiceden.io</a> Auto-Mint, built-in Browser Scripts Builder  
         (<a href="https://zennolab.com/ru/products/zennoposter/">ZennoPoster</a> light version) and Telegram auto log-in.  
         <h4 align="center"><strong>☘ Main Functionalities:</strong></h4>  
-        ◽ <strong>Antidetect Browsing</strong> – Unique browser fingerprints, user-agents and proxy support.  
+        1. <strong>Antidetect Browsing</strong> – Unique browser fingerprints, user-agents and proxy support.  
         <br>  
-        ◽ <strong>Multi-Profile System</strong> – Create and manage unlimited browser profiles with independent sessions and extensions.  
+        2. <strong>Multi-Profile System</strong> – Create and manage unlimited browser profiles with independent sessions and extensions.  
         <br>  
-        ◽ <strong>Automation & Scripting</strong> – Built-in ZennoPoster-like script builder and Violentmonkey script integration.  
+        3. <strong>Automation & Scripting</strong> – Built-in ZennoPoster-like script builder and Violentmonkey script integration.  
         <br>  
-        ◽ <strong>Auto-Minting</strong> – Automate MagicEden NFT minting across multiple MetaMask wallets.  
+        4. <strong>Auto-Minting</strong> – Automate MagicEden NFT minting across multiple MetaMask wallets.  
         <br>  
-        ◽ <strong>Telegram Auto Login</strong> – Instant session creation for marketing and automation purposes.  
+        5. <strong>Telegram Auto Login</strong> – Instant session creation for marketing and automation purposes.  
         <br>  
     </p>  
 </div>
