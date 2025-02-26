@@ -59,14 +59,12 @@
     <br>
     - Click start and wait for profiles creation.
     <br>
-    <h4><strong>🎯 Who Should Use AntiD Manager?</strong></h4>  
-    ✅ <strong>NFT Minters & Traders</strong> – Automate NFT minting processes, ensuring fast and efficient mints on MagicEden.  
+    <h4><strong>🎯 Why Do You Should Use AntiD Manager?</strong></h4>  
+    ✅ <strong>NFT Mints & Trades</strong> – Automate NFT minting processes, ensuring fast and efficient mints on MagicEden.  
     <br>  
-    ✅ <strong>Affiliate Marketers</strong> – Safely manage multiple marketing and affiliate accounts by simulating unique browsing sessions for each.  
-    <br>  
-    ✅ <strong>Automation Enthusiasts</strong> – Take full advantage of the powerful ZennoPoster-like script builder to automate complex browser tasks such as form submissions, product purchasing, or data scraping.  
+    ✅ <strong>Automation</strong> – Take full advantage of the powerful ZennoPoster-like script builder to automate complex browser tasks such as form submissions, product purchasing, or data scraping.  
     Custom workflows and actions are seamlessly executed, saving you time and ensuring maximum efficiency.  
     <br>  
-    ✅ <strong>Privacy-Conscious Users</strong> – Keep your online identity secure by configuring browser fingerprint settings to mask your real-world identity and location.  
+    ✅ <strong>Privacy-Conscious</strong> – Keep your online identity secure by configuring browser fingerprint settings to mask your real-world identity and location.  
     With the ability to change your proxy, user-agent, and headers, you can safeguard your privacy and evade tracking or surveillance while browsing.  
 </div>
