@@ -47,7 +47,7 @@
     <h4><strong>📖 How to Get Started</strong></h4>  
     <strong>Step 1: Auth in AntiD Manager</strong>  
     <br>  
-    - Buy or Come up with your trial period token
+    - Buy monthly subscription or Come up with your trial period token
     <br>
     - Open AntiD Manager and enter token for auth.  
     <br>
